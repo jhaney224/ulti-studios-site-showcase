@@ -1,0 +1,4 @@
+/*
+/*Content-Security-Policy: default-src 'self'; script-src 'self' unsafe-inline https://ultistudios.co/_nuxt; connect-src 'self'; font-src 'self' https://fonts.gstatic.com; img-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; base-uri 'self'; form-action 'self'
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff

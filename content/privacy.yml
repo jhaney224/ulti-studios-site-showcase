@@ -1,0 +1,49 @@
+# For the privacy page.
+hero:
+  title: "Privacy Policy"
+  description: "Last Updated: May 24th, 2025"
+preamble:
+  title: "Preamble"
+  sections:
+  - "By using any service by Ulti Studios (“we”, “us”, and “our”), you agree to the following Privacy Policy and any other Privacy Policies in place for related services used by Ulti Studios. If you have questions or comments about this policy, please email <a href='mailto:privacy@ultistudios.co'>privacy@ultistudios.co</a>."
+cookies:
+  title: "Cookies"
+  sections:
+  - "Our third-parties (e.g CloudFlare and GitBook) use cookies."
+  - "If you wish to disable cookies, you may do so in your browser settings. If unsure, please read how to disable cookies within your respective browser’s documentation."
+forms:
+  title: "Forms"
+  sections:
+  - "When visitors or users submit a form, we capture the email address and might capture other personal data included in the form fields if applicable. When visitors or users submit a contact form, we retain the data for 30 days to provide customer service. All collected data might be shown publicly and we send it to the appropriate team members to perform necessary actions based on the form submission."
+  - "We use Akismet for spam protection. Their privacy policy can be found at <a href='https://akismet.com/privacy/' target='_blank'>https://akismet.com/privacy/</a>."
+commission_invoicing:
+  title: "Commission Invoicing"
+  sections:
+  - "When you commission us, we’ll collect some billing details from you such as your name/email address, payment method used, billing address, etc, to help prevent fraud and verify your purchase. We conduct our invoicing via PayPal and Stripe and their respective privacy policies can be viewed on their sites: <a href='https://www.paypal.com/us/legalhub/privacy-full#paypal_privacy_statement' target='_blank'>PayPal</a> and <a href='https://stripe.com/privacy' target='_blank'>Stripe</a>."
+  - "All data collected is strictly confidential and protected as explained in the “How We Protect Your Data” section."
+purchases_and_other_things:
+  title: "Purchases & Other Things We Collect"
+  sections:
+  - "When you purchase one of our pre-made products on BuiltByBit, we won’t collect any payment details such as your real name or billing address as per BuiltByBit’s Enhanced Privacy system. To learn more about this, please see <a href='https://creators.builtbybit.com/enhanced-privacy' target='_blank'>BuiltByBit’s Enhanced Privacy article</a>."
+  - "On Polymart, however, we’ll collect some billing details as explained in the “Commission Invoicing” section. PayPal and Stripe are offered as payment gateways. All of this data is still strictly confidential and will be protected as explained in the “How We Protect Your Data” section."
+  - "We may collect anonymous data for web traffic such as the country your visit is from. Surveys may also be sent to users, which are optional, and users can elect to answer anonymously."
+who_we_share_your_data_with:
+  title: "Who We Share Your Data With"
+  sections:
+  - "We may release your information when we believe it is necessary to comply with the law, enforce our site policies, or protect the rights, property, and safety of us or others."
+how_long_we_retain_your_data:
+  title: "How Long We Retain Your Data"
+  sections:
+  - "Contact form submissions are retained for 30 days as mentioned before. However, data stored on our site can be exported and deleted upon the user’s request."
+how_we_protect_your_data:
+  title: "How We Protect Your Data?"
+  sections:
+  - "We use encryption, security measures, and train our team members to not release any personal data of users unless it’s necessary to comply with law enforcement, enforce our site policies, or protect the rights, property, and safety of us or others."
+what_rights_you_have:
+  title: "What Rights You Have Over Your Data"
+  sections:
+  - "You can request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes."
+where_your_data_is_sent:
+  title: "Where Your Data Is Sent"
+  sections:
+  - "Form submissions may be checked through an automated spam detection service."

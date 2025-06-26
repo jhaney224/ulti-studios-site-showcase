@@ -1,0 +1,66 @@
+# For the openings page.
+hero:
+  title: "Our Openings"
+description: "Ulti Studios is built by passionate creators — and we’re always on the lookout for more talent. Whether you’re a developer or just love Minecraft, we’d love to hear from you!"
+general_requirements:
+  title: "General Requirements"
+  description: "• <strong>Be at least 16 years of age (unless specified otherwise by the position).</strong>\n
+    • Have a registered Discord account.\n
+    • Be friendly, approachable, and able to communicate effectively. While we encourage a sense of humor, professionalism is key. Know when and where to use your sense of humor!\n
+    • Have a genuine interest in helping our clients and contributing to our community.\n
+    • Possess a working headset and microphone for audio interviews and staff meetings.\n
+    • Be adaptable and willing to learn new skills."
+openings:
+  title: "What We’re Looking For Right Now"
+  positions:
+  # - title: "Freelancer"
+  #   description: "Freelancers complete commission projects sent to us by various clients. They can take on whatever projects they'd like and provide their own rates. Payment is 85% profits of each commission."
+  #   requirements:
+  #   - "• <strong>Must be at least 18 years old.</strong>"
+  #   - "• Must be willing and able to use PayPal or Wise for commission withdrawals."
+  #   - "• You must have a headset or microphone for a short initial chat"
+  #   - "• At least 1 year of experience in the area/s you're applying to provide services for (a portfolio of your work will be required). A trial project may be given if experience is unclear, specific skills need to be tested, or skills are unverified."
+  #   - "• Able to work independently while knowing when to ask for help."
+  #   - "• Friendly, professional, and responsive."
+  #   - "• Willingness to follow Ulti Studios’ team policies."
+  #   - "• <strong>BONUS</strong>: Have had (or currently have) experience in service teams."
+  - title: "Support Ninja"
+    description: "Support Ninjas resolve issues and answer questions about our plugins and Ulti Studios in general."
+    requirements:
+    - "• Basic experience working with Minecraft servers and how plugins work."
+    - "• Familiarity with Ulti Studios products."
+  - title: "Helper"
+    description: "Helpers guide users by answering questions, assisting them in navigating the community, and performing basic moderation to keep things friendly and organized."
+    requirements:
+    - "<strong>BONUS</strong>: Experience with moderating Discord communities (extra points if you’ve used the Wick bot)."
+  # - title: "Moderator"
+  #   description: "Moderators maintain a safe and fun environment in Ulti Studios’ public spaces by moderating discussions and resolving conflicts."
+  #   requirements:
+  #   - "• Experience moderating Discord communities (extra points if you’ve used the Wick bot)."
+  #   - "• Ability to stay calm under pressure and de-escalate major situations."
+  #   - "• Strong multi-tasking and time-management skills."
+  - title: "Administrator"
+    description: "Administrators take charge of Ulti Studios’ public spaces by managing major situations, organizing community improvements (e.g., events), and supervising Moderators, Helpers, & Support Ninjas. They also report performance updates to management."
+    requirements:
+    - "• <strong>Must be at least 17 years old (18+ preferred but not required).</strong>"
+    - "• 1+ years of Discord or community management experience."
+    - "• Ability to stay calm under pressure and de-escalate major situations."
+    - "• Strong multi-tasking and time-management skills."
+why_join_us:
+  title: "Why Join Us?"
+  items:
+  - title: Growth
+    icon: mdi:brain
+    description: "We're committed to helping you grow professionally and personally. You'll have opportunities to develop new skills, achieve your potential, and get the support you need to succeed. We're a chill team that actually listens."
+  - title: Diversity
+    icon: mdi:earth
+    description: "Ulti Studios team values diversity and inclusion, especially in the neurodivergent community since the owner of Ulti Studios is neurodivergent. We welcome people of all backgrounds, perspectives, and experiences, fostering a strong, creative environment."
+  - title: Benefits
+    icon: material-symbols:handshake
+    description: "Enjoy perks like flexible hours, access to private staff areas, and paid opportunities. You may unlock more perks depending on your role."
+cta:
+  title: "Think you've got what it takes?"
+  description: "Great! We're more interested in your potential and passion than a perfect résumé. Join a team that values creativity, collaboration, and good vibes.\nJoin our Discord by clicking the bellow button. Once there, run /apply, complete the application, and a manager will be in touch.\n"
+  buttons:
+    - label: "Let's Build Something Awesome Together"
+      url: https://discord.ultistudios.co

@@ -1,0 +1,108 @@
+# For the terms page.
+hero:
+  title: "Terms of Service"
+  description: "Last Updated: June 8th, 2025"
+preamble:
+  title: "Preamble"
+  sections:
+  - "By engaging with Ulti Studios or opening a commission with us (“we,” “us,” “our”, “ours”), you accept the following terms and conditions on this page. Violation of these terms may cause a permanent suspension of access to our services. If you do not agree with these terms, please refrain from engaging with us."
+age_requirement:
+  title: "Age Requirement"
+  sections:
+  - "We do not knowingly accept financial transactions from people under 18 without the consent of their legal guardian. By making these transactions, you affirm you are 18 or older or have your legal guardian’s consent."
+  - "If we discover a minor has sent a financial transaction without proper consent, we will treat the transaction as fraud and carry out the actions defined in the “Fraud Transactions” section."
+language_policy:
+  title: "Language Policy"
+  sections:
+  - "We know that not everyone is fluent in English. However, clear communication is crucial. With that, we kindly request all conversations to be communicated in English. If you choose to speak with our team or other users in another language, it is your responsibility to make sure communication is clear. We are not liable for misunderstandings or unmet promises not made in English."
+fraud_transactions:
+  title: "Fraud Transactions"
+  sections:
+  - "Any attempt to commit fraud will cause a permanent suspension of access. We will also issue a refund."
+commission_process:
+  title: "Commission Process"
+  sections:
+  - "All commissions must be approved by a Commission Manager before being shared with freelancers. This ensures they are workable and within our scope. Freelancers then offer quotes, and the client may choose who to proceed with."
+  - "<br>"
+  - "We manage all commissions within the official Ulti Studios Discord server under the supervision of our management team. To begin work on your project, we require at least 50% of the payment upfront. The payment options are:"
+  - "• Full Payment: You will receive screenshots, videos, and access to files (or the project itself) as the work progresses. Upon completion and all invoices being paid in full, we will deliver the final files."
+  - "• Partial Payment (50% - 99%): You will receive screenshots and videos as the work progresses. However, we won’t give you access to the project files (or the project itself) until you pay all the payment in full."
+  - "<br>"
+  - "If a payment defaults, we reserve the right to maintain ownership of the project and sell it to recover costs. The project deadline starts upon full payment of the upfront payment."
+  - "We make all invoice payments through our invoicing system, using the USD currency. This ensures your funds are safe and that payments are reversible if needed. We do not accept payments made outside of our invoicing system (e.g. via PayPal.me links)."
+response_times:
+  title: "Response Times"
+  sections:
+  - "It is our goal to respond to all inquiries and client messages within 24 hours. However, life occurs, making response times vary based on various factors. Factors like time zones, holidays, and the number of other inquiries influence response time. Given this, please understand that a response may take some time."
+project_closing:
+  title: "Project Closing"
+  sections:
+  - "We provide 48 hours of free support after final delivery of the commissioned files and confirmation of completion. This covers:"
+  - "• Fixes to bugs/errors."
+  - "• Deployment issues."
+  - "• Clarification of included features."
+  - "<br>"
+  - "Any requests for new features, complex revisions, or reworks beyond this support period will be treated as new commissions or upgrades."
+  - "After 48 hours, we will delete the commission channel, so please create local backups. Once the commission channel is deleted, we are not responsible for storing project data or messages."
+project_ownership_and_usage:
+  title: "Project Ownership & Usage Rights"
+  sections:
+  - "All commissioned work through Ulti Studios is treated as “work-for-hire” unless otherwise stated. This means that upon full payment and successful delivery, the client becomes the owner of the final product, with rights to use and modify it for personal, private, or commercial use."
+  - "However, to ensure fairness to both parties—especially for collaborative or modified works—the following conditions apply:"
+  - "<br>"
+  - "<strong>Ownership Upon Delivery</strong>"
+  - "• Once the project is fully paid and delivered, you (the client) own the final product."
+  - "• This includes the right to use, modify, and host the project on your servers or platforms."
+  - "• Ownership includes all original material created specifically for your commission."
+  - "<br>"
+  - "<strong>Redistribution & Resale Restrictions</strong>"
+  - "To protect the integrity of the work and the rights of contributing freelancers:"
+  - "• You may not resell, redistribute, or share the project publicly (e.g., online repositories, marketplaces) without written permission."
+  - "• You may not re-license, repackage, or publish the project under your own name or brand unless explicitly allowed."
+  - "• Freelancers and Ulti Studios may not reuse or resell your custom project for other clients, unless you have granted permission."
+  - "<br>"
+  - "<strong>Refactors / Existing Assets</strong>"
+  - "If your project involves refactoring or modifying an existing plugin, system, or asset that you already own:"
+  - "• You retain ownership of your original work and intellectual property as per legal law."
+  - "• You are granted exclusive rights to use the modifications made by Ulti Studios for your personal or commercial purposes."
+  - "• Ulti Studios and its freelancers will not reuse or resell the modified work without your permission."
+  - "<br>"
+  - "Written permission may include direct message confirmations through Discord or through your commission channel on our discord, as long as it is clearly stated and agreed upon."
+  - "<br>"
+  - "<strong>Flexibility & Exceptions</strong>"
+  - "We understand some clients are younger or commissioning for personal use or hobby projects. We want to be flexible while also remaining fair to both you and our freelancers. As such:"
+  - "• We're happy to discuss special cases (e.g. shared usage among friends, etc.)."
+  - "• If you need additional rights or exceptions (e.g. redistribution, licensing, or extended support), please request them during the commission process so that they can be considered before we close the project."
+project_cancellations:
+  title: "Project Cancellations"
+  sections:
+  - "We may deny or cancel projects for the following cases:"
+  - "- Violate our terms of service, Minecraft's EULA, Discord's guidelines, or legal law."
+  - "- The project has unclear terms/requirements or unreasonable expectations."
+  - "- There is no one interested or able to complete said project."
+  - "- Any other reason deemed by a Commission Manager."
+portfolio_usage:
+  title: "Portfolio Usage"
+  sections:
+  - "We may present completed works for advertising. We will not mention client details, such as their names, unless they explicitly allow us to do so."
+refund_policy:
+  title: "Refund Policy"
+  sections:
+  - "All commissions are under a strict no-refund policy unless one of the exceptions below applies."
+  - "1. If the project does not meet our quality standards (determined by the management team)."
+  - "2. The project doesn’t meet the original requirements stated in commission creation."
+  - "3. If the project cannot meet the agreed-upon deadline, we may issue a partial refund of approximately 5% per day of delay, up to 50% of the amount paid toward the agreed-upon price. The actual refund amount may vary depending on factors such as the project’s complexity, revisions requested by the client, and how much of the work has been completed."
+  - "<br>"
+  - "Upon receiving a full refund, you’ll be required to delete and discontinue using the project given to you."
+  - "In addition, we will not grant refunds for our pre-made products unless the product does not work as described and we cannot fix the reported issues."
+extra_charges:
+  title: "Extra Charges"
+  sections:
+  - "1. We offer bug fixes and minor changes for free, but any major changes or additions to an already made project or one that has coding started may cost an additional fee, depending on its complexity."
+  - "2. Projects cancelled after the work begins will incur a 25% fee on the original commission. This fee covers the completed work. Failure to pay this fee can cause a transaction dispute and/or permanent suspension of accessing our services."
+  - "3. Additional charges may also apply for services not originally included in the commission request."
+  - "4. An additional fee is added to each invoice to handle processing fees."
+changes_to_terms:
+  title: "Changes to Terms"
+  sections:
+  - "We reserve the right to change these Terms of Service at any time. When we make material changes, we will give you clear notice through our discord or other methods. If you keep using our service after that notice, it means you accept the new terms. If you do not agree, you can stop using the service."

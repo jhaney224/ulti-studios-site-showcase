@@ -1,0 +1,82 @@
+# For the about page.
+hero:
+  title: About
+our_vision_and_mission:
+  title: Our Vision & Mission
+  sections:
+    - Our vision is bringing fresh ideas to Minecraft and revitalizing the classics for the community.
+    - We aim to deliver high-quality projects that are powerful, configurable, and user-friendly, serving Minecraft servers of all sizes. 
+    - With innovative solutions and a commitment to excellence, we see a bright future in the Minecraft market.
+principles:
+  title: Our Principles
+  description: "We have guiding principles to help us with decision-making and what direction to go."
+  items:
+    - title: Client First
+      icon: mdi:medal
+      description: We strive to prioritize our clients in our decision-making and direction. This way, our clients can benefit from what we provide to them.
+    - title: Honesty
+      icon: mdi:justice
+      description: "We believe it’s a best practice to stay as transparent and ethical as possible. Not much else to say."
+    - title: Diversity
+      icon: tabler:globe-filled
+      description: "Diversity is a core to us. Without a diverse team, there wouldn’t be great ideas, which is why we strive to recruit people from all over and be equitable in our organization and community."
+    - title: Long-term thinking
+      icon: solar:calendar-bold
+      description: "Not thinking about the long-term of a decision can be consequential. That’s why when we make decisions, we don’t just consider the present, but also what the future would hold."
+    - title: Collaboration
+      icon: game-icons:shaking-hands
+      description: "Asking for help isn’t a sign of weakness, but a sign of strength to work together as a team. With that, we value collaboration, and asking for help when you need it."
+    - title: Resilience
+      icon: streamline:fist
+      description: "There are always challenges and setbacks to face. So we keep a positive attitude, learn from our mistakes, and see these challenges as ways to improve and grow."
+team:
+  title: Our Team
+  description: Even though we all serve in different roles, we all serve the same mission and vision as one team. Meet our team below.
+  members:
+    - title: Ultimation | Jacob
+      icon: "/ultimation-pfp.gif"
+      position: Owner/Founder & Commission Manager
+    - title: hrdu | Ragnar
+      icon: "/hrdu-icon.png"
+      position: Operations Manager & Commission Manager
+    - title: Superjuliam | Julia
+      icon: "/julia-pfp.png"
+      position: Discord Manager, Discord Server Specialist, & Commission Manager
+    - title: theholyswordofmoose | Will
+      icon: "/will-pfp.png"
+      position: Helper & Support Ninja
+    - title: minimize0x | Mini
+      icon: "/mini.png"
+      position: Freelance Plugin Developer
+    - title: eripe14 | eripe
+      icon: "/eripe.png"
+      position: Freelance Plugin Developer
+    - title: berttowne | Bert
+      icon: "/berttowne.png"
+      position: Freelance Plugin Developer
+    - title: amberltd | Mewb
+      icon: "/mewb-icon.png"
+      position: Freelance Plugin Developer
+    - title: kacperm | KacperM
+      icon: "/kacperm-icon.png"
+      position: Freelance Plugin Developer
+    - title: Helios | Ted
+      icon: "/ted-icon.png"
+      position: Freelance Plugin Configurator
+    - title: sebxstixn_abi | Seb
+      icon: "/seb-icon.png"
+      position: Freelance Plugin Developer
+    - title: Dartanman | Dartan
+      icon: "/dartan-icon.png"
+      position: Freelance Plugin Developer
+    - title: XER0GRAVITY | XER0
+      icon: "/xer0-icon.png"
+      position: Freelance Plugin Configurator & Discord Server Specialist
+cta:
+  title:  Ready to work with us?
+  description: Give our public products a try and/or start your commission with us.
+  buttons:
+    - label: START YOUR COMMISSION
+      url: https://discord.ultistudios.co
+    - label: BROWSE OUR PRODUCTS
+      url: https://ultistudios.co/products

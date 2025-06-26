@@ -1,0 +1,86 @@
+hero:
+  title: "Our Portfolio"
+  description: "Explore our diverse range of projects across different services."
+
+category_title: "Categories"
+categories:
+  - title: "Minecraft Plugin Development"
+    icon: "ooui:code"
+  - title: "Discord Server Setups"
+    icon: "ic:baseline-discord"
+  - title: "Minecraft Plugin Configurations"
+    icon: "eos-icons:configuration-file-outlined"
+
+projects:
+  - title: "UltiEconomy | ✅ Public Release"
+    image: "/portfolio/ueconomy.png"
+    imageAlt: "UltiEconomy Plugin"
+    description: "An economy plugin designed to combine various economy features into one. From unlimited currencies, to shops and bank accounts, this plugin does so much."
+    category: "Minecraft Plugin Development"
+    freelancers: ["Ultimation"]
+    link: "https://builtbybit.com/ueconomy"
+    caseStudy:
+      title: "UltiEconomy: Revolutionizing Minecraft Server Economics"
+      goal: "Provide an economy-related core that builds with various economy features into one plugin."
+      techUsed: "Paper API, Vault, MySQL syncing, & advanced GUI menus."
+      challenge: "Preventing dupe bugs and other exploits, so servers get help in not experiencing imbalanced currencies."
+      results: "Released publicly with positive feedback."
+  - title: "ChunkDr | ✅ Public Release"
+    image: "/portfolio/chunkdr.png"
+    imageAlt: "ChunkDr Plugin"
+    description: "An automatic, live world backup system between two worlds, that restores damaged chunks."
+    category: "Minecraft Plugin Development"
+    freelancers: ["Ultimation", "hrdu"]
+    link: "https://builtbybit.com/chunkdr"
+    caseStudy:
+      title: "ChunkDr: Automated World Protection"
+      goal: "Provide an automatic recovery tool for chunk destruction and world corruption."
+      techUsed: "Paper API, Multiverse-Core, Minedown, & Workload queues"
+      challenge: "Handling simultaneous chunk edits without performance drops."
+      results: "Released publicly and stable for public-use."
+  - title: "UltraColorPro | ✅ Public Release"
+    image: "/portfolio/ucpro.png"
+    imageAlt: "UltraColorPro Plugin"
+    description: "A player chat and name-coloring plugin with various features, from nicknames, custom gradients, favorite color storage, and so much more."
+    category: "Minecraft Plugin Development"
+    freelancers: ["Ultimation"]
+    link: "https://builtbybit.com/ucpro"
+    caseStudy:
+      title: "UltraColorPro: Next-Level Player Chat & Name-Coloring"
+      goal: "Provide a player chat and name coloring plugin that goes above and beyond, succeeding from the original UltraColor plugin on SpigotMC."
+      techUsed: "Paper API, Vault, MySQL syncing, & per-player preference storage."
+      challenge: "Taking a common and minor plugin and making it advanced and unique, while easy to use."
+      results: "Various 5-star reviews and purchases, being used on multiple servers/networks."
+  - title: "Iris Discord | 💡 Concept Build"
+    image: "/portfolio/iris-discord.png"
+    imageAlt: "Revenant Discord Server Setup"
+    description: "A simple discord server setup for a Grecian-mythology-themed community."
+    category: "Discord Server Setups"
+    freelancers: ["Superjuliam"]
+  - title: "CellBlockMC Discord | 💡 Concept Build"
+    image: "/portfolio/CellBlockMC-discord.png"
+    imageAlt: "CellBlockMC Discord Server Setup"
+    description: "A prison-themed Discord template designed for Minecraft servers to show off our skills in community structure, role design, and bot integration."
+    link: "https://discord.new/h4FTdpzA3WaA"
+    category: "Discord Server Setups"
+    freelancers: ["Ultimation"]
+  - title: "EssentialsX Config Styles | ✅ Public Release"
+    image: "/portfolio/essentialsx-config-styles-public.png"
+    imageAlt: "EssentialsX Plugin Configuration"
+    description: "Configuration setup for EssentialsX with different server styles (Wholesome SMP, RPG/Fantasy, & Economy)"
+    category: "Minecraft Plugin Configurations"
+    freelancers: ["Ultimation"]
+    link: "https://builtbybit.com/resources/essentialsx-config-pack.66204/"
+  - title: "LuckPerms + ItemsAdder Prison Server Ranks | 💡 Concept Build"
+    image: "/portfolio/luckperms-itemsadder.png"
+    imageAlt: "Showing prison server ranks using LuckPerms + ItemsAdder"
+    description: "A setup using LuckPerms and ItemsAdder to create 16 ranks for a prisons server. Preview below for the full image."
+    category: "Minecraft Plugin Configurations"
+    freelancers: ["Ultimation"]
+    link: "https://i.postimg.cc/Xv2N2g2c/Luck-Perms-Items-Adder.png"
+cta:
+  title: "Commission a similar project"
+  description: "Join our discord to open a commission!"
+  buttons:
+    - label: OPEN A COMMISSION
+      url: https://discord.ultistudios.co

@@ -1,0 +1,105 @@
+# For the main page.
+hero:
+  title: Ulti Studios
+  description: Services and Public Minecraft Products for Every Server's Needs.
+  buttons:
+    - label: OPEN A COMMISSION
+      url: https://discord.ultistudios.co
+    - label: MORE ABOUT US
+      url: https://ultistudios.co/about
+our_partners:
+  title: Our Partners
+  items:
+  - title: MineHead
+    link: https://minehead.vercel.app
+    img: "/minehead-icon.png"
+    alt_text: "A golden trophy to represent MineHead's logo."
+  - title: This Could Be You! Apply on our discord!
+    link: https://discord.ultistudios.co
+    img: "/question.png"
+    alt_text: "Golden question mark image."
+our_offerings:
+  title: What We Offer
+  items:
+  - title: "Plugin Development"
+    icon: "ooui:code"
+    description: "We create custom plugins tailored to your server’s unique needs! From small quality-of-life features to large-scale systems like mini-games, custom cores, and gameplay mechanics. Every plugin is crafted with performance and quality in mind to ensure it meets your expectations and enhances your community experience."
+  - title: "Plugin Configuration"
+    icon: "eos-icons:configuration-file-outlined"
+    description: "Whether you're overwhelmed with plugin settings or just want things polished, we’ll configure your plugins to match your server’s goals. From basic setup to in-depth customization like messages, scoreboards, and tablists, we make sure everything is clean, readable, and optimized."
+  - title: "Discord Server Setups"
+    icon: "ic:baseline-discord"
+    description: "Need help setting up a professional Discord server? We offer structured layouts, permission setups, and bot configurations to match your branding and use case. Our Discord specialists are experienced in both community-building and server design."
+  - title: Public Products
+    icon: gridicons:plugins
+    description: "Browse our library of premium products, complete with regular updates, bug fixes, support, etc, all for a one-time fee. Perfect for managing economies, systems, and more with ease."
+  - title: And More To Come!
+    icon: ic:baseline-plus
+    description: "We plan to expand to provide more services. Keep an eye on our discord for any updates!"
+creations:
+  title: "Our Creations In Action"
+  items:
+    - image: "/UltiEconomy.png"
+      description: "An economy plugin with various features from unlimited currencies to bank accounts with roles & permissions."
+      image_alt: "Showcasing a transaction history in-game via chat pagination."
+      button_label: "LEARN MORE ABOUT OUR CREATIONS"
+      button_url: "https://ultistudios.co/products"
+      button_open_new_tab: false
+    - image: "/ChunkDr.png"
+      description: "An automatic chunk restoring system between two worlds."
+      image_alt: "Regenerating a chunk automatically, using green particles to show the regeneration."
+      button_label: "LEARN MORE ABOUT OUR CREATIONS"
+      button_url: "https://ultistudios.co/products"
+      button_open_new_tab: false
+    - image: "/UCPro.png"
+      description: "Color your usernames and chat messages like a pro with unique features."
+      image_alt: "Three-hex-colored gradients too!"
+      button_label: "LEARN MORE ABOUT OUR CREATIONS"
+      button_url: "https://ultistudios.co/products"
+      button_open_new_tab: false
+features:
+  title: Why Ulti Studios?
+  items:
+    - title: Built By Minecraft Devs
+      icon: mdi:brain
+      description: Founded by a Minecraft Dev who has experience in creating and managing projects. We have talented team members with a diverse skill set and their works screened and validated.
+    - title: Reliable & Transparent
+      icon: mdi:clock
+      description: We aim to be reliable and transparent with our clients, not leaving hidden strings attached.
+    - title: Community-Focused
+      icon: material-symbols:handshake
+      description: "We make solutions focused to our clients and what servers need the most. Your commission isn't a number and we work closely with each client to build exactly what you envision, not what’s easiest for us."
+    - title: Quality-First
+      icon: material-symbols:star
+      description: Quality over quantity as some say. We aim to make our projects efficient and scalable with high-quality coding standards. 
+    - title: Active Project Management & Clear Terms
+      icon: material-symbols:business-center
+      description: Besides working with a freelancer, you'll also have a Commission Manager as an active second-point-of-contact, while still having direct communication to both them and the Freelancer/s. Our terms are also clear to understand and go into full detail of our processes and more.
+    - title: More Personal Attention
+      icon: material-symbols:star
+      description: We only take on up to a few projects at a time, ensuring you get real attention—not rushed, templated work.
+    - title: "We’re Actively Growing"
+      icon: tabler:seedling-filled
+      description: "We’re actively expanding—get in on the ground floor with a team dedicated to quality from the start."
+stats:
+  title: "Some Statistics"
+  description: "We’re just getting started, but our work speaks for itself. Here’s a quick snapshot of what we’ve done so far:"
+  items:
+    - title: "45+ purchases across our public premium products"
+      icon: carbon:purchase
+    - title: "65+ total downloads from our public releases"
+      icon: material-symbols:download
+    - title: "20+ custom plugins developed for private servers"
+      icon: dashicons:admin-plugins
+    - title: "Team experience ranges from 3 to 10 years in Minecraft dev & community services"
+      icon: uim:briefcase
+    - title: "Fully launched 3 public services in 2025"
+      icon: nimbus:rocket
+cta:
+  title: Ready for solutions?
+  description: Give our public products a try and/or start your commission with us.
+  buttons:
+    - label: START YOUR COMMISSION
+      url: https://discord.ultistudios.co
+    - label: BROWSE OUR PRODUCTS
+      url: https://ultistudios.co/products

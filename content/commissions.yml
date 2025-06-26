@@ -1,0 +1,31 @@
+# For the custom plugins page.
+hero:
+  title: "Commission Services"
+description: "Ulti Studios has published paid plugins to the public. However, truly standing out requires a unique server experience. To do this, we help provide this by providing commission-based services.\n We aim to provide a reliable, transparent platform where we deliver high-quality services that protect everyone’s finances."
+our_process:
+  title: "Our Process"
+  items:
+  - title: Open A Commission
+    icon: simple-line-icons:envolope-letter
+    description: "• Start by submitting a request through our Discord Ticketing System.\n • Provide detailed information about your project.\n • By opening a commission, you agree to our Terms and Conditions, so please read them before proceeding."
+  - title: Accept A Quote
+    icon: dashicons:format-quote
+    description: "• Receive a price estimate based on your project details.\n • Discuss and negotiate the price, if necessary.\n • Confirm the payment arrangement."
+  - title: Make Upfront Payment
+    icon: ic:baseline-payment
+    description: "• Pay at least 50% upfront before coding begins.\n • All payments are securely processed via PayPal & Stripe."
+  - title: Track Your Project
+    icon: material-symbols:checklist
+    description: "• Monitor progress through regular updates.\n • Share feedback to ensure the project meets your expectations."
+  - title: Pay Remaining Balance
+    icon: hugeicons:invoice
+    description: "• Complete payment before receiving the project files.\n • An invoice will be provided for any outstanding balance."
+  - title: Accept Delivery
+    icon: healthicons:i-documents-accepted
+    description: "• Receive the final files after completing payment.\n • Enjoy a 48-hour window for support and minor changes."
+cta:
+  title: Ready to work with us?
+  description: "Join our Discord to get started and open your ticket today!"
+  buttons:
+    - label: JOIN OUR DISCORD
+      url: https://discord.ultistudios.co

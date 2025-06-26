@@ -1,0 +1,17 @@
+# For contact page.
+hero:
+  title: "Contact Us"
+description: "We have multiple methods for you to reach us. Either send us an email or fill out the below form and we’ll get back to you."
+contact_methods:
+  items:
+  - title: Email
+    icon: ic:baseline-email
+    description: "<a href='mailto:support@ultistudios.co'>support@ultistudios.co</a>"
+get_in_touch: "Get In Touch"
+contact_form:
+  name: "Name *"
+  email: "Email *"
+  subject: "Subject"
+  message: "Message *"
+  privacy_consent: "I agree with the privacy policy. *"
+  gdpr_consent: "I consent to having this website store my submitted information so they can respond to my inquiry. *"

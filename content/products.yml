@@ -1,0 +1,52 @@
+# For the our products page.
+hero:
+  title: Our Minecraft Products
+description: We tested these products; they're compatible with various versions and allow customization.
+products:
+  items:
+    - image: "/ServicesTeamWebTemplate.png"
+      title: "Service Team Web Template (NEW!)"
+      description: "A service team website showcasing your services using the Nuxt framework, along with TailwindCSS."
+      image_alt: "A preview of the home page, showcasing a clean hero."
+      button_label: "PURCHASE NOW"
+      button_url: "https://builtbybit.com/resources/service-team-web-template.68228/"
+      button_open_new_tab: true
+    - image: "/EssentialsXConfigPack.png"
+      title: "EssentialsX Config Pack"
+      description: "This config pack is designed with 3 server styles in mind, coming with pre-setup kits, balanced worths, and various custom messages. Check them out below!"
+      image_alt: "A logo with a magical book with an eye, with the text below saying, 'EssentialsX Config Styles'."
+      button_label: "PURCHASE NOW"
+      button_url: "https://builtbybit.com/resources/essentialsx-config-pack.66204/"
+      button_open_new_tab: true
+    - image: "/UltiEconomyLogo.png"
+      title: "UltiEconomy"
+      description: "UltiEconomy is designed with a foundation to combine various economic features into one plugin. From unlimited currencies, to currency boosters with various conditions, and bank accounts with roles & permissions, UltiEconomy allows various opportunities for your server and your players.\n"
+      image_alt: "A logo with a coin, with the text, 'UltiEconomy'."
+      button_label: "PURCHASE NOW"
+      button_url: "https://builtbybit.com/ueconomy"
+      button_open_new_tab: true
+    - image: "/ChunkDrLogo.png"
+      title: "ChunkDr"
+      description: "A plugin that acts like a live world backup system between two worlds. This system restores damaged chunks after enough changes automatically. This plugin works great for servers with game modes like survival and factions.\n"
+      image_alt: "A block with a chunk taken out, with the text below saying, 'ChunkDr'."
+      button_label: "PURCHASE NOW"
+      button_url: "https://builtbybit.com/chunkdr"
+      button_open_new_tab: true
+    - image: "/UCPro-Icon.png"
+      title: "UltraColorPro"
+      description: "The premium, improved, and continued version of the original UltraColor. Not only can you color your chat messages and player names like a pro, but you can format them too (by global and by group), along with a nickname system.  Reward your players while also remaining compliant with Minecraft’s EULA. With some of our unique systems, like a favorite colors menu, your donors will enjoy what they paid for.\n"
+      image_alt: "A paintbrush, with the text to the side saying, 'UltraColorPro'."
+      button_label: "PURCHASE NOW"
+      button_url: "https://builtbybit.com/ucpro"
+      button_open_new_tab: true
+    - image: "/UCFree.png"
+      title: "UltraColorFree"
+      description: "The plugin that started it all, back when Ulti Studios was known as Ultimation. Jacob made UltraColor as a 16-year-old high school student. It helped 100+ minecraft servers before it reached end of life. This plugin featured name and chat coloring, nicknames, gradients and hexes, and quite some customization. UltraColorFree is archived for historical purposes and will not receive more updates nor support (as of June 10th, 2023). Users are encouraged to purchase the pro version.\n"
+      image_alt: "A rainbow-colored circle with the text 'UC' in the center."
+      button_label: "DOWNLOAD NOW"
+      button_url: "https://www.spigotmc.org/resources/ultracolor-end-of-life.85332/"
+      button_open_new_tab: true
+more_to_come:
+  title: More Minecraft Products To Come
+  sections:
+    - More to come, check back for updates! We make announcements about any updates on our discord, so be sure to check them out.

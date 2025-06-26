@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,700&family=Roboto+Slab:wght@100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
+html, body {
+    --heading-font-family: "Montserrat", serif;
+    --main-font-family: "Roboto Slab", serif;
+    @apply min-h-screen w-full overflow-x-hidden scroll-smooth dark:bg-page-background-dark dark:text-white;
+}
+
+:is(h1, h2, h3, h4, h5, h6), header, div > a, button {
+    font-family: var(--heading-font-family);
+    font-optical-sizing: auto;
+    @apply font-bold not-italic;
+}
+
+p, a {
+    font-family: var(--main-font-family);
+    font-optical-sizing: auto;
+    @apply not-italic font-normal leading-normal;
+}
+
+.montserrat {
+    font-family: var(--heading-font-family);
+    font-optical-sizing: auto;
+    @apply font-bold not-italic;
+}
+
+.roboto-slab-bold, .roboto-slab-regular {
+    font-family: var(--main-font-family);
+    font-optical-sizing: auto;
+    @apply not-italic;
+}
+
+.roboto-slab-bold {
+    @apply font-bold;
+}
+
+.roboto-slab-regular {
+    @apply font-normal;
+}
+
+label {
+    font-family: var(--heading-font-family);
+    font-optical-sizing: auto;
+    @apply font-bold not-italic block mb-2;
+}
+
+input, textarea {
+    @apply mb-6 bg-white text-black border-2 border-black border-solid;
+    @layer w-full px-4 py-2 rounded-lg transition-all duration-300 focus:outline-none focus:ring-2 focus:primary-button-light;
+}
+
+.dark input, .dark textarea {
+    @apply bg-[#1e1e1e] text-white border-white;
+    @layer focus:primary-button-dark;
+}
+
+button, .button {
+    @apply rounded-lg transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-offset-2;
+}
+
+.section-padding {
+    @apply py-12 md:py-16 lg:py-20;
+}
+
+.container-padding {
+    @apply px-4 sm:px-6 lg:px-8;
+}
+
+.card {
+    @apply bg-white dark:bg-secondary-button-dark rounded-lg shadow-lg p-6 transition-transform duration-300 hover:scale-105;
+}
+
+.debug-box {
+    @apply flex flex-wrap justify-center items-center gap-4 w-full max-w-xl mx-auto mb-5 bg-red-500;
+}
+
+/* Improve accessibility */
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
